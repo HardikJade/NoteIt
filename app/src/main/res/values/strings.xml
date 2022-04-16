@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Note It</string>
+    <string name="discover">Discover</string>
+    <string name="aggrement">By tapping Continue a user linked agreements and then must click the “Agree and Continue” box which further makes it clear to the user that an agreement is taking place.</string>
+    <string name="welcome">Hello There,Welcome</string>
+    <string name="started_login">Login and get Started</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
 </resources>
